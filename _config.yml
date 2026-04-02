@@ -23,7 +23,7 @@ repository               : "ayhuan/ayhuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "pic.png"
   name             : "Anyu Huan"
   pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
